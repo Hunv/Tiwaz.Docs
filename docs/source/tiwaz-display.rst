@@ -1,5 +1,5 @@
 Tiwaz.Display
-===
+=============
 
 .. autosummary::
    :toctree: generated

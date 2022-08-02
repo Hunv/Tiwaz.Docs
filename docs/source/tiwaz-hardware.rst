@@ -1,5 +1,5 @@
 Tiwaz.Hardware
-===
+==============
 
 .. autosummary::
    :toctree: generated

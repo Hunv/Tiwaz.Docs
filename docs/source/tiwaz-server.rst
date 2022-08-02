@@ -1,5 +1,5 @@
 Tiwaz.Server
-=====
+============
 
 .. _installation:
 

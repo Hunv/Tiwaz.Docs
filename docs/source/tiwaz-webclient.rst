@@ -1,5 +1,5 @@
 Tiwaz.WebClient
-===
+===============
 
 .. autosummary::
    :toctree: generated
